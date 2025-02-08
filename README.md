@@ -1,0 +1,1 @@
+This repository contains an example of a common error in Perl related to hash iteration order. The bug demonstrates that the order of elements in a hash is not guaranteed during iteration. The solution shows a correct way to iterate over hashes if the order is important.
